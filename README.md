@@ -19,7 +19,7 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 ```
 2. Navigate to the project dir
 ```bash
-   cd pomodoro
+   cd PomodoroTimerTerminal
 ```
 3. Build the project using CMake. 
 source "-S" - CMakeLists.txt pomodoro.c gpio.h 
