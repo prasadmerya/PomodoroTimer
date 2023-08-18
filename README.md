@@ -15,7 +15,7 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 
 1. Clone this repository to your Raspberry Pi.
 ```bash
-   git clone https://github.com/prasadmerya/pomodoro.git
+   git clone https://github.com/prasadmerya/PomodoroTimerTerminal.git
 ```
 2. Navigate to the project dir
 ```bash
